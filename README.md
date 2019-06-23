@@ -1,0 +1,2 @@
+- First Project HTML: Deconstruct an exiting web page and rebuild it
+- From the Odin Project HTML/CSS (http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
